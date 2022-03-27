@@ -1,0 +1,4 @@
+version: STSv1
+mode: enforce
+mx: pigeon.williamblondel.fr
+max_age: 86402
